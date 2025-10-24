@@ -14,7 +14,8 @@ Aplikasi website sekolah berbasis Laravel yang menampilkan informasi kegiatan se
 
 ![WhatsApp Image 2025-10-24 at 14 38 34_b40949da](https://github.com/user-attachments/assets/bec6ff6b-2dbd-493f-b306-41ef8b728bf0)
 
-![Uploading WhatsApp Image 2025-10-24 at 14.39.14_a5496aee.jpg…]()
+![WhatsApp Image 2025-10-24 at 14 39 14_a5496aee](https://github.com/user-attachments/assets/afe84135-6e49-499d-abd3-3561cb1fd6ae)
+
 
 
 ## 🎯 Tentang Aplikasi
