@@ -8,19 +8,14 @@ Aplikasi website sekolah berbasis Laravel yang menampilkan informasi kegiatan se
   <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
 </p>
 
-## 📋 Daftar Isi
+## 📋 Hasil 
 
-- [Tentang Aplikasi](#-tentang-aplikasi)
-- [Fitur Utama](#-fitur-utama)
-- [Tech Stack](#-tech-stack)
-- [Persyaratan Sistem](#-persyaratan-sistem)
-- [Instalasi](#-instalasi)
-- [Penggunaan](#-penggunaan)
-- [Struktur Database](#-struktur-database)
-- [Struktur Project](#-struktur-project)
-- [Pengembangan](#-pengembangan)
-- [Testing](#-testing)
-- [Lisensi](#-lisensi)
+![WhatsApp Image 2025-10-24 at 14 37 44_5508b085](https://github.com/user-attachments/assets/c887a6a0-a8fc-4dd7-a8f2-199494ecf105)
+
+![WhatsApp Image 2025-10-24 at 14 38 34_b40949da](https://github.com/user-attachments/assets/bec6ff6b-2dbd-493f-b306-41ef8b728bf0)
+
+![Uploading WhatsApp Image 2025-10-24 at 14.39.14_a5496aee.jpg…]()
+
 
 ## 🎯 Tentang Aplikasi
 
